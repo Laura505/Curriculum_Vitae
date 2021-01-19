@@ -1,0 +1,50 @@
+body{
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.imagen {
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    margin-left: 10px;
+}
+
+.imagen {
+    margin-left: 10px;
+}
+
+.Enunciados {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Datos {
+    margin-left: 50px;
+}
+
+.datos-personales {
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
+
+.formacion-academica {
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
+
+.formacion-complementaria {
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
+
+.experiencia-profesional {
+    background-color: grey;
+    color: white;
+    font-size: 18px;
+}
